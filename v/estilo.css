@@ -1,0 +1,25 @@
+body{
+
+	background-color: green;
+} 
+
+
+#cabecera{  
+        background-color:orange;  
+        height:20%; 
+      margin-bottom: .5em;
+      
+}  
+#menu{  
+        height:47.5%;  
+        background-color:red; 
+         margin-bottom: .5em;
+           
+}  
+ 
+ #pie{  
+        height:30%;  
+        background-color:#D3D1C1;  
+        
+
+        
